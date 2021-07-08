@@ -18,6 +18,7 @@ This application enables the user to track withdrawals and deposits with or with
 
 ## Live App Link
 
+[Budget Tracker](https://ancient-citadel-33046.herokuapp.com/)
 ## Installation
 
 To install necessary dependencies, run the following command:
@@ -30,4 +31,4 @@ In order to contribute, you need to know how to work with implementing offline f
     
 ## Questions 
 
-If you have any questions about the repo, open an issue or contact me directly at semionaevdokimov@icloud.com. You can find more of my work at ItsEvdok[https://github.com/ItsEvdok].
+If you have any questions about the repo, open an issue or contact me directly at semionaevdokimov@icloud.com. You can find more of my work at [ItsEvdok](https://github.com/ItsEvdok).
