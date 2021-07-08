@@ -25,7 +25,8 @@ To install necessary dependencies, run the following command:
     npm i
 
 ## Contributing
-How to work with implementing offline features and local storage into programs.
+
+In order to contribute, you need to know how to work with implementing offline features and local storage into your programs.
     
 ## Questions 
 
