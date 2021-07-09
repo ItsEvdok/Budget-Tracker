@@ -1,6 +1,7 @@
 # Budget-Tracker
 ---
 
+<img width="1440" alt="Screen Shot 2021-07-09 at 5 32 40 PM" src="https://user-images.githubusercontent.com/78257029/125138137-1aae7580-e0dc-11eb-8816-6d80a9f66b6e.png">
 
 ## Description
 
